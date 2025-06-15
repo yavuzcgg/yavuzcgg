@@ -9,27 +9,27 @@ Actively exploring **Deep Learning, NLP (Natural Language Processing), Signal Pr
 
 Especially interested in **medical image processing, time series analysis**, and **large-scale data workflows**.
 
-Currently pursuing a **Master's in Artificial Intelligence and Data Science** at Sakarya University.
+Currently pursuing a **Master's in Artificial Intelligence and Data Science**.
 
 ---
 
 ### Tech Stack
 
--  **Languages:** C#, Python, TypeScript, JavaScript, SQL, MATLAB  
--  **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework, FastAPI, Flask, Next.js  
--  **Frontend:** React.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, jQuery, HTML5, CSS3  
--  **State Management & Tools:** Redux, Git, Docker, Postman, Visual Studio, Jupyter, Linux, Azure  
--  **AI & Data Science:** NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, TensorFlow  
--  **Databases:** SQL Server, PostgreSQL, SQLite
+-  **Languages:** C#, Python, TypeScript, JavaScript, SQL, MATLAB.  
+-  **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework, FastAPI, Flask, Next.js.  
+-  **Frontend:** React.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, jQuery, HTML5, CSS3.  
+-  **State Management & Tools:** Redux, Git, Docker, Postman, Visual Studio, Jupyter, Linux, Azure.  
+-  **AI & Data Science:** NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, TensorFlow.  
+-  **Databases:** SQL Server, PostgreSQL, SQLite.
 
 ---
 
 ### Highlight Projects
 
-- **B2B E-Commerce Platform:** Multi-company support, product and stock management, LOGO API integration, order workflows, cargo tracking  
-- **Blockchain Voting System:** Built with React + TypeScript frontend, Solidity smart contracts, Node.js backend  
-- **CRM Systems:** Desktop and web CRM applications with LOGO accounting integration, DevExpress UI, dynamic reporting  
-- **Multiple Disease Prediction System:** Flask app with ML models for early disease prediction and guidance
+- **B2B E-Commerce Platform:** Multi-company support, product and stock management, LOGO API integration, order workflows, cargo tracking.  
+- **Blockchain Voting System:** Built with React + TypeScript frontend, Solidity smart contracts, Node.js backend.  
+- **CRM Systems:** Desktop and web CRM applications with LOGO accounting integration, DevExpress UI, dynamic reporting.
+- **Multiple Disease Prediction System:** Flask app with ML models for early disease prediction and guidance.
 
 ---
 
