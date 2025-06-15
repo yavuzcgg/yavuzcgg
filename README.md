@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yavuz Çelik</h1>
+<h1 align="center">Hi, I'm Yavuz Çelik</h1>
 <h3 align="center">AI Engineer & Full Stack .NET Developer based in Türkiye</h3>
 
 ---
@@ -15,12 +15,12 @@ Currently pursuing a **Master's in Artificial Intelligence and Data Science** at
 
 ### Tech Stack
 
-- 🔹 **Languages:** C#, Python, TypeScript, JavaScript, SQL, MATLAB  
-- 🔹 **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework, FastAPI, Flask, Next.js  
-- 🔹 **Frontend:** React.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, jQuery, HTML5, CSS3  
-- 🔹 **State Management & Tools:** Redux, Git, Docker, Postman, Visual Studio, Jupyter, Linux, Azure  
-- 🔹 **AI & Data Science:** NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, TensorFlow  
-- 🔹 **Databases:** SQL Server, PostgreSQL, SQLite
+-  **Languages:** C#, Python, TypeScript, JavaScript, SQL, MATLAB  
+-  **Frameworks:** .NET Core, ASP.NET MVC, Entity Framework, FastAPI, Flask, Next.js  
+-  **Frontend:** React.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, jQuery, HTML5, CSS3  
+-  **State Management & Tools:** Redux, Git, Docker, Postman, Visual Studio, Jupyter, Linux, Azure  
+-  **AI & Data Science:** NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, TensorFlow  
+-  **Databases:** SQL Server, PostgreSQL, SQLite
 
 ---
 
@@ -35,5 +35,5 @@ Currently pursuing a **Master's in Artificial Intelligence and Data Science** at
 
 ### How to reach me:
 
-- ✉️ Email: yavuzcgg@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yavuzcgg](https://linkedin.com/in/yavuzcgg)
+- Email: yavuzcgg@gmail.com  
+- LinkedIn: [linkedin.com/in/yavuzcgg](https://linkedin.com/in/yavuzcgg)
