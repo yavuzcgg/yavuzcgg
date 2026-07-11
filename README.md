@@ -17,7 +17,7 @@
 
 ## 🧭 About me
 
-- 💼 **Full Stack .NET Developer** at **Esbi Bilişim** (Sakarya, Türkiye) — ERP-integrated commerce & enterprise products
+- 💼 **Full Stack .NET Developer** (Sakarya, Türkiye) — building ERP-integrated commerce & enterprise products
 - 🚀 Shipped production software on **four platforms**: web (ASP.NET Core), mobile (React Native / Expo), desktop (WinForms) and Windows services
 - 🔌 Specialty: integrations connecting **Logo & Bay.t ERPs** to payment, marketplace and logistics platforms
 - 🎓 M.Sc. **Data Science & AI** @ Sakarya University — OCR/NLP research on industrial monitoring (**TÜBİTAK 3501**)
