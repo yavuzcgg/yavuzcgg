@@ -1,20 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Yavuz Çelik — Full Stack .NET Developer" src="assets/banner-dark.svg" width="100%">
-</picture>
-
-<br/>
-<br/>
-
-*I build software that runs in production — from enterprise ERP integrations to<br/>e-commerce platforms serving **15,000+ users**.*
-
-</div>
-
-<br/>
-
 ## 🧭 About me
 
 - 💼 **Full Stack .NET Developer** (Sakarya, Türkiye) — building ERP-integrated commerce & enterprise products
@@ -86,9 +69,10 @@
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/yavuzcelik.com-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://yavuzcelik.com)
 [![Gmail](https://img.shields.io/badge/yavuzcgg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yavuzcgg@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/yavuzcgg-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yavuzcgg)
 
 <div align="center">
-  <sub>⚡ Portfolio website coming soon.</sub>
+  <sub>⚡ Full project write-ups at <a href="https://yavuzcelik.com">yavuzcelik.com</a></sub>
 </div>
