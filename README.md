@@ -70,7 +70,7 @@
 ## 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/yavuzcelik.com-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://yavuzcelik.com)
-[![Gmail](https://img.shields.io/badge/yavuzcgg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yavuzcgg@gmail.com)
+[![Email](https://img.shields.io/badge/yavuz@yavuzcelik.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yavuz@yavuzcelik.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in/yavuzcgg-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/yavuzcgg)
 
 <div align="center">
