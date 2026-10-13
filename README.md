@@ -1,6 +1,6 @@
 # Yavuz Çelik
 
-Full Stack .NET Developer — Sakarya, Türkiye
+Full Stack .NET Developer — Türkiye
 
 ## About me
 
